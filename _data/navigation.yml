@@ -10,3 +10,15 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+
+sidebar-category:
+  - title: "Deep Learning"
+    children: 
+      - title: "Understanding Deep Learning"
+        url: "deep_learning/undderstanding_deep_learning/"
+
+  - title: "일상"
+    children:
+      - title: "cafe"
+        url: "daily_life/cafe/"
