@@ -13,9 +13,9 @@ sidebar:
   enabled: true
 ---
 
-{% assign deep_learning_post = site.posts | where: "categories", "deep_learning" %}
-{% assign deep_learning_post_with_understanding = deep_learning_post | where: "categories", "understanding_deep_learning" %}
+{% assign main_category = site.posts | where: "categories", "deep_learning" %}
+{% assign sub_category = main_category | where: "categories", "understanding_deep_learning" %}
 
-{% for post in deep_learning_post_with_understanding %}
+{% for post in sub_category %}
   {% include archive-single.html type=page.entries_layout %}
 {% endfor %}
