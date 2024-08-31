@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "최영민"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "카페에서 코딩과 금융 공부하는게 취미인 직장인입니다~~"
   location         : "Somewhere"
   email            :
   links:
