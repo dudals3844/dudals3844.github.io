@@ -11,8 +11,8 @@
         <span class="nav__sub-title">Data Analysis#</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "deep_learning" %}
-                        <li><a href="/categories/deep_learning" class="">Deep Learning ({{category[1].size}})</a></li>
+                    {% if category[0] == "DeepLearning" %}
+                        <li><a href="/categories/DeepLearning" class="">Understanding Deep Learning ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>

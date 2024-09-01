@@ -1,7 +1,7 @@
 ---
 title: "딥러닝(Deep Learning)"
 layout: archive
-permalink: categories/deep_learning
+permalink: categories/DeepLearning
 author_profile: true
 sidebar_main: true
 ---
@@ -10,5 +10,5 @@ sidebar_main: true
 
 ***
 
-{% assign posts = site.categories.deep_learning %}
+{% assign posts = site.categories.DeepLearning %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
