@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "비전공자가 차근차근 공부하는 AI, 금융"
+title                    : "For sale: Data analysis book, never opened"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Gin Choi"
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "최영민"
+  name             : "YMChoi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "카페에서 코딩과 금융 공부하는게 취미인 직장인입니다~~"
-  location         : "Somewhere"
+  bio              : "계속 까먹어서 정리하는 데이터분석, 금융"
+  location         : "Seoul"
   email            :
   links:
     - label: "Email"
